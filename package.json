@@ -1,0 +1,11 @@
+{
+  "name": "tutorial_puppeteer",
+  "version": "1.0.0",
+  "description": "— I'm just a boy, stading in front of a simple scrapper to get blog posts and contents...",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^15.4.0"
+  }
+}
